@@ -1,0 +1,25 @@
+Bài thực hành tuần 10 (phần 1)
+Due June 16, 2022 5:30 PM
+Instructions
+Sinh viên tìm hiểu cách làm việc với 2 thiết bị đèn LED 7 đoạn và Bitmap Display.
+Sau đó thực hiện các bài tập sau:
+Bài 1. Hiển thị 2 chữ số cuối của MSSV
+Bài 2. Nhập vào một số nguyên, hiển thị 2 chữ số cuối của số nguyên đó
+Bài 3. Nhập vào ký tự, hiển thị 2 chữ số cuối của mã ASCII của ký tự đó
+Bài 4. Vẽ ô bàn cờ vua kích thước 8x8
+Bài 5. Nhập vào 2 điểm có tọa độ (x1, y1) và (x2, y2), vẽ và tô màu hình chữ nhật có 2 góc là 2 điểm trên.
+Báo cáo bao gồm mã nguồn và ảnh chụp minh họa kết quả các bài trên
+
+Bài thực hành tuần 10 (phần 2)
+Due June 30, 2022 5:30 PM
+Instructions
+Sinh viên tìm hiểu cách làm việc với các thiết bị MarsBot, Keyboard và Display (Home Assignment 3 và 4)
+Sau đó thực hiện các bài tập sau:
+Bài 1. Điều khiển marsbot di chuyển theo hình tam giác đều, hình vuông, hình ngôi sao
+Bài 2. Nhập ký tự ở Keyboard và hiển thị ở Display: nhập ký tự thường => hiển thị ký tự hoa tương ứng, nhập ký tự hoa => hiển thị ký tự thường tương ứng, nhập ký tự số thì giữ nguyên, nhập ký tự khác => hiển thị ký tự *
+3. Dùng keyboard điều khiển marsbot
++ Space: bắt đầu / dừng di chuyển
++ W: đi lên, S: đi xuống, A: sang trái, D: sang phải
+
+Báo cáo bao gồm mã nguồn và ảnh chụp minh họa kết quả các bài trên.
+Reference materials
